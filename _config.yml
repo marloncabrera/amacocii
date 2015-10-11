@@ -1,0 +1,14 @@
+# Site settings
+title: AMACOCII
+email: contato@amacoc.org.br
+description: > # this means to ignore newlines until "baseurl:"
+  AMACOC II - Associação de Moradores do Conjunto Oswaldo Cruz II 
+  Rua Cristina Bartetta Tuoto, 158 - CIC - Curitiba - Paraná 
+  Fone: (41) 3042-2172 - amacoc@amacoc.org.br - amacoc2@gmail.com
+  Horário de Atividades: Segunda á Sexta das 08:30 as 17:00
+  Horário da secretaria: Terça das 08:30 as 11:30 - 14:00 as 17:00
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
